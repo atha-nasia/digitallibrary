@@ -11,4 +11,4 @@ Berikut ini adalah Koleksi yang dimiliki:
 
 ---
 *Powered by GitHub Pages*
-<a href="image.html">image</a>
+<a href="image.html">images/literasi.png</a>
